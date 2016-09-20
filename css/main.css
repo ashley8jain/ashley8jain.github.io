@@ -1,0 +1,109 @@
+
+/*.parallax-container{
+  height: 400px;
+}*/
+html {
+   font-family: sans-serif;
+ }
+
+ #mobile-demo a{
+   color: #ffffff;
+ }
+
+#div1 {
+    display: block;
+    height: 1px;
+    width: 100px;
+    background: black;
+    opacity: 0.13;
+    margin: auto;
+    margin-top: 20px;
+}
+
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+
+ main {
+   flex: 1 0 auto;
+ }
+
+ .brand-logo{
+   margin: 5px;
+   margin-left: 10px;
+ }
+
+/*send sms*/
+form{
+  margin-top: 30px;
+}
+
+
+
+
+
+
+/*about*/
+/*about*/
+/*about*/
+
+.prof{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.myname{
+  font-size: 32px;
+  text-align: center;
+  margin:10px 0;
+  color: rgba(0,0,0,0.95);
+}
+.mydescp {
+   font-size: 16px;
+   font-style: italic;
+   text-align: center;
+   margin: 0;
+   color: rgba(0,0,0,0.4);
+}
+
+#things-list{
+  margin-top: 30px;
+}
+.thing-desc-small {
+    margin: 0px;
+    color: rgba(0,0,0,0.3);
+    font-size: 14px;
+}
+.thing-desc-ans {
+    margin: 0px;
+    color: rgba(0,0,0,0.95);
+    font-size: 21px;
+}
+.thing-desc-more {
+    margin: 0px;
+    color: rgba(0,0,0,0.4);
+    font-size: 13px;
+    font-style: italic;
+}
+
+.thing > .img-thing {
+    float: left;
+    margin: 15px;
+}
+.thing{
+  padding: 20px;
+  margin-bottom: 35px;
+}
+
+.profile{
+  width: 500px;
+}
+
+
+
+
+/*portfolio*/
+/*portfolio*/
+/*portfolio*/
